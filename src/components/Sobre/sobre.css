@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.container>.card{
+    border-radius: 30px;
+}
+
+.card:hover{
+    background-color: aquamarine;
+}

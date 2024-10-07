@@ -1,0 +1,11 @@
+.jumbotron{
+    margin:20px;
+    background-image: linear-gradient(orange,cyan);
+    color:purple;
+    border-radius: 20px;
+}
+
+.jumbotron >button{
+    margin-left: 40%;
+    margin-bottom: 50px;
+}
